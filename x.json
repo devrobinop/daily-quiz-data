@@ -1,0 +1,31 @@
+[
+  {
+    "question_en": "Who is the new head coach of the Indian women's cricket team?",
+    "question_hi": "भारतीय महिला क्रिकेट टीम के नए मुख्य कोच कौन हैं?",
+    "options_en": ["Amol Muzumdar", "Rahul Dravid", "VVS Laxman", "Gautam Gambhir"],
+    "options_hi": ["अमोल मजूमदार", "राहुल द्रविड़", "वीवीएस लक्ष्मण", "गौतम गंभीर"],
+    "answer_en": "Amol Muzumdar",
+    "answer_hi": "अमोल मजूमदार"
+  },
+  {
+    "question_en": "Which city will host the 54th International Film Festival of India (IFFI)?",
+    "question_hi": "कौन सा शहर 54वें IFFI की मेजबानी करेगा?",
+    "options_en": ["Mumbai", "Goa", "New Delhi", "Kolkata"],
+    "options_hi": ["मुंबई", "गोवा", "नई दिल्ली", "कोलकाता"],
+    "answer_en": "Goa",
+    "answer_hi": "गोवा"
+  },
+  {
+    "question_en": "The 'Mera Yuva Bharat' (MY Bharat) platform is for which group?",
+    "question_hi": "'मेरा युवा भारत' (MY भारत) प्लेटफॉर्म किस समूह के लिए है?",
+    "options_en": ["Senior Citizens", "Youth of India", "Farmers", "Women Entrepreneurs"],
+    "options_hi": ["वरिष्ठ नागरिक", "भारत के युवा", "किसान", "महिला उद्यमी"],
+    "answer_en": "Youth of India",
+    "answer_hi": "भारत के युवा"
+  }
+]
+
+
+https://drive.google.com/file/d/15zI66wgGb5hQAk0LTdiDb33ns-ywPUoo/view?usp=drivesdk
+
+https://drive.google.com/uc?export=view&id=15zI66wgGb5hQAk0LTdiDb33ns-ywPUoo
